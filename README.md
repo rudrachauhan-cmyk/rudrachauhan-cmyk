@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there! I'm <a href="http://bit.ly/dhruvpatel848" target="_blank">Drudra chauhan</a>, A passionate Tech Enthusiast 🚀</h1>
+<h1 align="center">👋 Hello there! I'm <a href="http://bit.ly/dhruvpatel848" target="_blank">rudra chauhan</a>, A passionate Tech Enthusiast 🚀</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif" height="150" />
